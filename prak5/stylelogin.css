@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 6px 4px;
+	background: black;
+	color: white;
+	border-radius: 4px;
+	font-family: sans-serif;
+}
+
+h1 {
+	padding-top: 20px;
+	font-size: 3rem;
+	text-align: center;
+}
+
+table {
+	position: absolute;
+	left: 72vh;
+	font-family: sans-serif;
+	font-size: 16px;
+	border-radius: 4px;
+	position: absolute;
+	line-height: 28px;
+}
+
+.button {
+	position: absolute;
+	left: 113vh;
+	top: 32vh;
+}
